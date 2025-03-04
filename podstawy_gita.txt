@@ -1,0 +1,5 @@
+git status
+git add podstawy_gita.txt
+git status
+git commit -m "Add podstawy gita"
+
